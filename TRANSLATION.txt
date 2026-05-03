@@ -1318,3 +1318,4 @@ Action.P-136=(Épuiser) : Attacher 1 Don épuisé à un Leader ou personnage [É
 Action.P-148=Attacher 1 Don épuisé à un Leader ou personnage
 Action.OP16-047=(Épuiser) : L'adversaire place 2 cartes de sa main sous le Deck
 Action.OP16-049=(Épuiser) : Piocher 1 carte
+Log.SetBasePower=$1 : Définit la puissance de base de $2 à #1

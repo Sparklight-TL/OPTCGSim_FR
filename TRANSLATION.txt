@@ -1344,3 +1344,4 @@ Action.OP16-059=(7) : Regarder 5 cartes et jouer 2 personnages [Impel Down] avec
 Action.OP16-078=(Don -1)(Épuiser) : Piocher 1 carte et défausser 1 carte
 Action.OP16-081=(Épuiser) : Donner -2000 à un personnage
 Action.OP16-084=(Défausser) : Jouer 1 [Kouzuki Momonosuke] de coût 9 depuis la défausse
+Log.NoRemoval=$1 ne peut pas être retiré !

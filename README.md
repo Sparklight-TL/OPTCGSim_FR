@@ -1,3 +1,3 @@
-Fichiers pour le patch FR d'OPTCGSim
-Version actuelle Simulateur : 1.40b
-Extension actuelle : OP16
+Ancien patch FR pour OPTCGSim
+
+RETROUVEZ LE NOUVEAU ICI : https://youtu.be/aicsitnmYVk
